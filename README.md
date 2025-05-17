@@ -1,6 +1,6 @@
 # Friendly Chatbot - Gemini Pro Powered
 
-A friendly, supportive chatbot backend using Google Gemini Pro API and a React frontend. The chatbot acts like a bestie, chatting casually about health, emotions, and general knowledge with Gen Z slang and empathetic vibes.
+A friendly, supportive chatbot backend using Google Gemini Pro API and a React frontend. The chatbot acts like a bestie, chatting casually about health, emotions, and general knowledge with Gen-Z slang and empathetic vibes.
 
 ---
 
